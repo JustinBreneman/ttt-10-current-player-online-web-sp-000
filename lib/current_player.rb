@@ -7,3 +7,4 @@ def turn_count(board)
   end
   counter
 end
+each_char { |chr|  }
